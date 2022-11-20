@@ -61,6 +61,7 @@
 		<td>${u.getCategory()}</td>
 		<td>${u.getTitle()}</td>
 		<td>${u.getWriter()}</td>
+
 		<td>${u.getAge()}</td>
 		<td>${u.getContent()}</td>
 		<td>${u.getRegdate()}</td>
