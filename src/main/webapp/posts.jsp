@@ -50,8 +50,8 @@
 	<th>이름</th>
 	<th>나이</th>
 	<th>자기소개</th>
-	<th>사진</th>
 	<th>등록일</th>
+	<th>사진</th>
 	<th>수정</th>
 	<th>삭제</th>
 </tr>
@@ -61,7 +61,6 @@
 		<td>${u.getCategory()}</td>
 		<td>${u.getTitle()}</td>
 		<td>${u.getWriter()}</td>
-
 		<td>${u.getAge()}</td>
 		<td>${u.getContent()}</td>
 		<td>${u.getRegdate()}</td>
